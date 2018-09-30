@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Chess
+PURPOSE OF PROJECT: Create a program that simulated a game of chess with two human players.
+VERSION or DATE: April 5, 2017
+HOW TO START THIS PROJECT: Run BlueJ package in BlueJ
+AUTHOR: Theresa Pelosi
+USER INSTRUCTIONS: Click on a piece to select. You are allowed to deselect by clicking again. Click on a destination location to move
+the piece. If the move is invalid, the selection will reset. Players automatically switch after a successful move. The goal of chess is
+to get the king to the other player's side. Each piece moves in a unique way.
